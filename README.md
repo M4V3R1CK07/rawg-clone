@@ -1,1 +1,1 @@
-This is a clone of rawg.io website which i made to implement my frontend knowledege. On this site you can search any game and find their ratings and platforms on which you can play them. This was made using HTML, CSS, React with typescript.
+This is a clone of rawg.io website which i made to implement my frontend knowledege. On this site you can search any game and find their ratings and platforms on which you can play them. This was made using HTML, CSS, React with typescript, Chakra UI and Bootstrap.
